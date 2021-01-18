@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8"
+gem "jekyll"
 gem "just-the-docs"
 
 group :jekyll_plugins do
